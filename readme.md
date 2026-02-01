@@ -12,7 +12,7 @@ I believe in continuous learning and staying updated with new technologies.
 My goal is to build amazing web applications and grow as a skilled developer.
 
 ---
-![My Image](https://i.imgur.com/xxxxxx.jpg)
+![image](https://m.media-amazon.com/images/I/510sFVU23DL.png)
 
 ---
 
